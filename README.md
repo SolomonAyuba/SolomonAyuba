@@ -10,7 +10,7 @@
 </span>
 <p>
 
-<h2 align="left">🚀 About Me</h2>
+## 🚀 About Me
 - 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**
 - 📊 Designed **dashboards & analyses** (crime, car sales, business, finance)
 - 🤖 Collaborated on an **NLP Automatic Grading System** → *deployed on Streamlit*
