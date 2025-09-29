@@ -6,13 +6,13 @@
 
 <p>
 <span>
-  <img align="right" src="assets/Data Analytics Solomon Ayuba GitHub.gif" alt="Solomon Ayuba Analysis =" width="50%" />
+  <img align="right" src="assets/Data Analytics Solomon Ayuba GitHub.gif" alt="Solomon Ayuba Analysis =" width="40%" />
 </span>
 <p>
 
 ## 🚀 About Me
 - 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**
-- 📊 Designed **dashboards & analyses** (crime, car sales, business, finance)
+- 📊 Designed **dashboards & analyses** (crime, car sales, customer churn, business, finance)
 - 🤖 Collaborated on an **NLP Automatic Grading System** → *deployed on Streamlit*
 - 🌱 Exploring **Machine Learning & Data Science** projects
 - 🤝 Open to **collaborations & opportunities** to create impact
