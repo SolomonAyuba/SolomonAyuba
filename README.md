@@ -2,14 +2,13 @@
 
  *A Data Analyst & Aspiring Data Scientist*
 
+---
+
 <p>
 <span>
   <img align="right" src="assets/DataAnalyticsGIFforGithub.gif" alt="Solomon Ayuba Analysis =" width="50%" />
 </span>
 <p>
-
-
----
 
 ## 🚀 About Me
 - 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**
