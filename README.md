@@ -2,8 +2,12 @@
 
  *A Data Analyst & Aspiring Data Scientist*  
 
----
-
+<p>
+<span>
+  <img align="right" src="assets/coding_animation_.gif" alt="Solomon Ayuba Analysis =" width="50%" /></span>
+<p>
+---  
+  
 ## 🚀 About Me  
 - 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**  
 - 📊 Designed **dashboards & analyses** (crime, car sales, business, finance)  
