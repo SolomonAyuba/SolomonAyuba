@@ -11,7 +11,7 @@
 <p>
 
 ## 🚀 About Me
-- 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**
+- 🔍 Turning **data into insights** with **Excel | SQL | Power BI | Tableau | Python**
 - 📊 Designed **dashboards & analyses** (crime, car sales, customer churn, business, finance)
 - 🤖 Collaborated on an **NLP Automatic Grading System** → *deployed on Streamlit*
 - 🌱 Exploring **Machine Learning & Data Science** projects
