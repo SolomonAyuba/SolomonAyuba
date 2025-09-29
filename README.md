@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Portfolio & Links  
-- 🌐 [Portfolio Website](https://www.datascienceportfol.io/solomonayubafirst) |
+- 🌐 [Portfolio Website](https://www.datascienceportfol.io/solomonayubafirst) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/solomonayuba/)
 - 📝 [Medium](https://medium.com/@solomonayubafirst)  
 - 📧 Reach me: [solomonayubafirst@gmail.com](solomonayubafirst@gmail.com)
