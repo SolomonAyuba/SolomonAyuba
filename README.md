@@ -6,11 +6,11 @@
 
 <p>
 <span>
-  <img align="right" src="assets/DataAnalyticsGIFforGithub.gif" alt="Solomon Ayuba Analysis =" width="50%" />
+  <img align="right" src="assets/Data Analytics Solomon Ayuba GitHub.gif" alt="Solomon Ayuba Analysis =" width="50%" />
 </span>
 <p>
 
-## 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
 - 🔍 Turning **data into insights** with **Excel | SQL | Power BI | | Tableau | Python**
 - 📊 Designed **dashboards & analyses** (crime, car sales, business, finance)
 - 🤖 Collaborated on an **NLP Automatic Grading System** → *deployed on Streamlit*
