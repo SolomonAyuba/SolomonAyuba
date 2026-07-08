@@ -36,7 +36,7 @@
 - 🌐 [Portfolio Website](https://www.datascienceportfol.io/solomonayubafirst)
 - 💼 [LinkedIn](https://www.linkedin.com/in/solomonayuba/)
 - 📝 [Medium](https://medium.com/@solomonayubafirst)
-- 📧 Reach me: [contact@solomonayuba.com](Mail:solomonayuba.com)
+- 📧 Reach me: [contact@solomonayuba.com](Mailto:contact@solomonayuba.com)
 
 
 
