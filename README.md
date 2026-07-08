@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Solomon
 
- *A Data Analyst & Aspiring Data Scientist*
+ *A Data Analyst & Data Science Enthusiast*
 
 
 
