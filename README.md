@@ -23,7 +23,7 @@
 
 ### 🏆 Achievements
 
-- 🥇 **3× Star Performer** — Excelerate (Data Visualization, Associate & Customer Insights Internships)
+- 🥇 **4× Star Performer** — Excelerate (Data Visualization, Associate & Customer Insights Internships)
 - 🎓 **$3,000 Scholarship** — Saint Louis University, Missouri, USA
 - 🏅 **First Class Honours** — BSc Data Science, Miva Open University (4.61/5)
 
